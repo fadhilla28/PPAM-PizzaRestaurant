@@ -1,0 +1,7 @@
+# Pizza Restaurant
+| Screenshot | Screenshot | Screenshot |
+| --- | --- | --- |
+| <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanAwal1.jpg" width="250">| <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanAwal2.jpg" width="250"> | <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanStore1.jpg" width="250"> |
+| <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanStore2.jpg" width="250"> | <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanStore3.jpg" width="250"> | <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanAwalMenu.jpg" width="250"> |
+| <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanMenu1.jpg" width="250"> | <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanMenu2.jpg" width="250"> | <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanMenu3.jpg" width="250"> |
+| <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanOrder1.jpg" width="250"> | <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanOrder2.jpg" width="250"> | <img src="https://github.com/fadhilla28/PPAM-PizzaRestaurant/blob/main/Screenshot/TampilanOrder3.jpg" width="250"> |
